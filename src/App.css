@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+}
+.heading{
+  background-color: black;
+  color: rgb(167, 159, 159);
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.map{
+  /* /* width: 100vw; */
+  height: 100vh;   
+  border:2px solid black;
+}
+
+.icon{
+  font-size: 15px;
+  color: red;
+}
+
+.title{
+  border: 2px solid rgb(207, 207, 207);
+  color: rgb(248, 122, 122);
+  padding: 1px 5px;
+  border-radius:3px;
+}
+
+li{
+  list-style-type: none;  
+}
+
+.card{
+  position: absolute;
+  top:10vh;
+  opacity:0.6;
+  /* background: transparent; */
+}
