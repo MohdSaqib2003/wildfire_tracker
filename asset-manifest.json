@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wildfire-tracker/static/css/main.07a03f49.css",
+    "main.js": "/wildfire-tracker/static/js/main.a8a251b4.js",
+    "index.html": "/wildfire-tracker/index.html",
+    "main.07a03f49.css.map": "/wildfire-tracker/static/css/main.07a03f49.css.map",
+    "main.a8a251b4.js.map": "/wildfire-tracker/static/js/main.a8a251b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a03f49.css",
+    "static/js/main.a8a251b4.js"
+  ]
+}
